@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LogMail>aaa@gmail.com</LogMail>
-<PassMail>bbb</PassMail>
-<FromMail>ccc@gmail.com</FromMail>
-<NameMail>ddd@gmail.com</NameMail>
 <DestMail>eee@gmail.com</DestMail>
